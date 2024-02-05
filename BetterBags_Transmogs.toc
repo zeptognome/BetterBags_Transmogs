@@ -1,0 +1,17 @@
+## Interface: 100205
+
+## Title: BetterBags_Transmogs
+## Notes: Adds categories for uncollected transmog items to BetterBags.
+## Author: Zeptognome
+## Version: v0.9
+## X-Date: 2024-02-04T06:46:40Z
+## IconTexture: Interface\Icons\inv_misc_bag_15
+
+## DefaultState: Enabled
+## Dependencies: BetterBags
+
+## X-Category: Bags & Inventory
+## X-License: MIT
+
+BetterBags_Transmogs.lua
+
