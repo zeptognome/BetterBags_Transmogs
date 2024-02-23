@@ -1,0 +1,4 @@
+package-as: BetterBags_Transmogs
+
+ignore:
+  - annotations.lua
