@@ -2,3 +2,6 @@ package-as: BetterBags_Transmogs
 
 ignore:
   - annotations.lua
+
+required-dependencies:
+  - better-bags
