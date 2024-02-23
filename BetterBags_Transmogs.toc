@@ -12,6 +12,8 @@
 
 ## X-Category: Bags & Inventory
 ## X-License: MIT
+## X-Curse-Project-ID: 977945
+## X-Wago-ID: qKQx5k6x
 
 BetterBags_Transmogs.lua
 
