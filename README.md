@@ -9,4 +9,7 @@ BetterBags_Transmogs is a plugin for Better Bags that adds categories for gear w
 ![Screenshot 2024-02-05 040122](https://github.com/zeptognome/BetterBags_Transmogs/assets/158738380/77d5f077-b247-452b-95b4-d963752b76e5)
 ![Screenshot 2024-02-05 040136](https://github.com/zeptognome/BetterBags_Transmogs/assets/158738380/fb6d852f-c0af-4677-8457-3ba023d69184)
 
+Available via Curseforge: soon!
+Available via Wago: https://addons.wago.io/addons/betterbags-transmogs
+
 ToDo: handle recipes that craft items with uncollected transmogs
